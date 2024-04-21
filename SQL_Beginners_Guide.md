@@ -1,6 +1,7 @@
 # Getting Started with SQL: A Beginner’s Guide
 
-![SQL Image](images/SQL_blog.png)
+![SQL Image](SQL_blog.png)
+
 
 So, you’ve decided to delve into the world of SQL (Structured Query Language)? Excellent choice! SQL is a powerful tool for managing and querying data, and it’s widely used across industries ranging from finance to healthcare to tech. Whether you’re aiming to become a data analyst, a software developer, or simply want to enhance your skill set, learning SQL is a valuable investment.
 
